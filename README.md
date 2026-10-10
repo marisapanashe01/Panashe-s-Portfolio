@@ -86,9 +86,9 @@ I'm always open to learning, collaborating, and contributing to meaningful techn
 
 ## 📫 Connect With Me
 
-- 💻 **GitHub:** https://github.com/marisapanashe01
-- 💼 **LinkedIn:** https://www.linkedin.com/in/panashe-marisa/
-- 📧 **Email:** panashe.marisa@aju.ac.zw
+- 💻 **GitHub:** [Panashe Marisa](https://github.com/marisapanashe01)
+- 💼 **LinkedIn:**       [Panashe Marisa](https://www.linkedin.com/in/panashe-marisa/)
+- 📧 **Email:** [panashe.marisa@aju.ac.zw](mailto:panashe.marisa@aju.ac.zw) 
 
 ---
 
