@@ -47,12 +47,14 @@ I use personal and academic projects to apply what I learn and explore new ideas
 
 - 🥉 **Huawei ICT Competition 2022–2023 Global Finals** — Third place globally, Network Track, Shenzhen, China.
 - 🌏 **Huawei Seeds for the Future 2023** — Participant.
-- 🌐 **Huawei HCIP-Datacom-Network Automation Developer** — Huawei networking credential.
-- 🐧 **Huawei ICT Academy HCIA-openEuler V1.0** — Course credential.
-- 🗄️ **Huawei ICT Academy HCIA-openGauss V1.0** — Course credential.
+- 🌐 **Huawei HCIP-Datacom-Network Automation Developer** — Course Completion Certificate. 
+- 🐧 **Huawei ICT Academy HCIA-openEuler V1.0** — Course Completion Certificate.
+- 🗄️ **Huawei ICT Academy HCIA-openGauss V1.0** — Course Completion Certificate.
 - 🗄️ **Huawei HCIP-openGauss V1.0** — Course/MOC assessment achievement.
 - 🔐 **ISC2 Certified in Cybersecurity (CC) Candidate Badge** — Candidate badge; not a completed CC certification.
 - 🇨🇳 **HSK Level 3** — Chinese proficiency examination passed.
+
+- **more certificates and achievements in folder**
 
 ---
 
@@ -60,6 +62,7 @@ I use personal and academic projects to apply what I learn and explore new ideas
 
 - **Cybersecurity and Forensics** — Arrupe Jesuit University *(Currently studying)*
 - **Diploma in Software Engineering** — TelOne Centre for Learning *(Completed)*
+- **Mandarin Chinese** — ZIMGRO Language Consultancy *(Ongoing)*
 
 ---
 
